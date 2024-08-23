@@ -1,0 +1,12 @@
+[submodule "themes/color1"]
+	path = themes/color1
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "content/repo1"]
+	path = content/repo1
+	url = https://github.com/vaishnavi-wagajeep/content1-repo.git
+[submodule "content/repo2"]
+	path = content/repo2
+	url = https://github.com/vaishnavi-wagajeep/content2-repo.git
+[submodule "content/repo3"]
+	path = content/repo3
+	url = https://github.com/vaishnavi-wagajeep/contentt3-repo.git
